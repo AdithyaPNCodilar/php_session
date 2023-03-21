@@ -1,0 +1,44 @@
+[
+    {
+        "name": "Adithya",
+        "email": "adithyapn98@gmail.com",
+        "phone": "7510701619",
+        "username": "Adithyapn",
+        "password": "adhi@123"
+    },
+    {
+        "name": "Max",
+        "email": "max@gmail.com",
+        "phone": "9985201014",
+        "username": "Max",
+        "password": "max@123"
+    },
+    {
+        "name": "John",
+        "email": "john@gmail.com",
+        "phone": "7851023254",
+        "username": "John",
+        "password": "john@123"
+    },
+    {
+        "name": "Nivedya",
+        "email": "nivedya@gmail.com",
+        "phone": "9985201014",
+        "username": "nivedya",
+        "password": "nive@123"
+    },
+    {
+        "name": "Den",
+        "email": "den@gmail.com",
+        "phone": "8851102362",
+        "username": "Den",
+        "password": "den@123"
+    },
+    {
+        "name": "Sona",
+        "email": "sona@gmail.com",
+        "phone": "9985201014",
+        "username": "Sona",
+        "password": "sona@123"
+    }
+]
